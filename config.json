@@ -127,6 +127,6 @@
         }
     },
     "appVersion": "1.0.0",
-    "buildNumber": 2,
+    "buildNumber": 3,
     "runtimeUrl": "http://localhost:8080"
 }
